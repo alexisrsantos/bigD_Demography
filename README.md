@@ -2,7 +2,7 @@
 This is a repository that includes code and information required to perform text analysis of JSTOR metadata from the Demography Journal.
 
 ___
-#Acknowledgment 
+# Acknowledgment 
 I am thankful to [John Bernau](https://www.johnabernau.com/) for providing code and support in the preparation of this analysis. This paper was inspired by his publication in [Socius](https://us.sagepub.com/en-us/nam/journal/socius).
 
 The reference to that publication is below:
