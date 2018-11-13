@@ -13,4 +13,4 @@ I am thankful to [John Bernau](https://www.johnabernau.com/) for providing code 
 
 The reference to that publication is below:
 
-Bernau, John A. (2018). [Text analysis with JSTOR Archives](https://journals.sagepub.com/doi/10.1177/2378023118809264). Socius: Sociological Research for a Dynamic World. Vol. 4, pp. 1-2.
+Bernau, John A. (2018). [Text analysis with JSTOR Archives](https://journals.sagepub.com/doi/10.1177/2378023118809264). _Socius: Sociological Research for a Dynamic World_. Vol. 4, pp. 1-2.
