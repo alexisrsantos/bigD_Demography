@@ -12,7 +12,7 @@ Recently, those who study one of the three demographic processess are informally
 
 In addition, I study patterns in length and coauthorship within papers published in Demography (the journal). 
 
-# Acknowledgment 
+## Acknowledgment 
 I am thankful to [John Bernau](https://www.johnabernau.com/) for providing code and support in the preparation of this analysis. This paper was inspired by his publication in [Socius](https://us.sagepub.com/en-us/nam/journal/socius). 
 
 The reference to that publication is below:
